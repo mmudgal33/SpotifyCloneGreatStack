@@ -6,7 +6,7 @@
 
 4=> Tailwind CSS IntelliSense
 
-57:29
+02:14:29
 
 git init
 git add .
